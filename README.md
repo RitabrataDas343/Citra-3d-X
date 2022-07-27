@@ -1,1 +1,1 @@
-Rising
+Go to college
