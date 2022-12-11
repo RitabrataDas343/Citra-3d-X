@@ -2,7 +2,6 @@ Pokemon X
 
 - [ ] Pokedex completion
 - [x] All TMs
-- [ ] All items
 - [ ] Battle Institute 
 - [x] 100 lvl team
 - [x] Hall of Fame - Raichu, Greninja, Charizard, Lucario, Gardevoir, Goodra
