@@ -1,12 +1,11 @@
 Pokemon X
 
-- [ ] Pokedex completion
+- [x] Pokedex completion
 - [x] All TMs
-- [ ] Battle Institute 
 - [x] 100 lvl team
 - [x] Hall of Fame - Raichu, Greninja, Charizard, Lucario, Gardevoir, Goodra
 - [x] Post Game
-- [ ] Gold Trainer Card
+- [x] Gold Trainer Card
 - [x] 50 Battle Maison Streak
 - [x] All Mega Stones
 - [x] Expensive Clothes
