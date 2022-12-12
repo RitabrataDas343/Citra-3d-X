@@ -11,3 +11,5 @@ Pokemon X
 - [x] Expensive Clothes
 - [x] All Eeveelutions
 - [x] Catch A Shiny Pokemon
+
+Pokemon Ultra Sun
