@@ -12,4 +12,4 @@ Pokemon X
 - [x] All Eeveelutions
 - [x] Catch A Shiny Pokemon
 
-Pokemon Ultra Sun and Moon
+Pokemon Ultra Sun 
