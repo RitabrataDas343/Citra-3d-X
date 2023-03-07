@@ -1,6 +1,6 @@
 Pokemon X
 
-- [x] Pokedex completion
+- [x] Pokedex Completion
 - [x] All TMs
 - [x] 100 lvl team
 - [x] Hall of Fame - Raichu, Greninja, Charizard, Lucario, Gardevoir, Goodra
@@ -12,4 +12,15 @@ Pokemon X
 - [x] All Eeveelutions
 - [x] Catch A Shiny Pokemon
 
-Pokemon Ultra Sun 
+Pokemon Let's Go: Pikachu 
+
+- [] Pokedex Completion
+- [] All TMs
+- [] 100 lvl team
+- [x] Hall of Fame - Pikachu, Charizard, Blastoise, Venusaur, Snorlax, Dragonite
+- [x] Post Game 
+- [] All Mega Stones
+- [] Expensive Clothes -- Crown
+- [] Defeat Red, Blue and Green 
+- [] All Pokemon Titles including "Grand Master"
+- [] Catch A Shiny Pokemon
