@@ -14,13 +14,13 @@ Pokemon X
 
 Pokemon Let's Go: Pikachu 
 
-- [] Pokedex Completion
-- [] All TMs
-- [] 100 lvl team
+- [ ] Pokedex Completion
+- [ ] All TMs
+- [ ] 100 lvl team
 - [x] Hall of Fame - Pikachu, Charizard, Blastoise, Venusaur, Snorlax, Dragonite
 - [x] Post Game 
-- [] All Mega Stones
-- [] Expensive Clothes -- Crown
-- [] Defeat Red, Blue and Green 
-- [] All Pokemon Titles including "Grand Master"
-- [] Catch A Shiny Pokemon
+- [ ] All Mega Stones
+- [ ] Expensive Clothes -- Crown
+- [ ] Defeat Red, Blue and Green 
+- [ ] All Pokemon Titles including "Grand Master"
+- [ ] Catch A Shiny Pokemon
